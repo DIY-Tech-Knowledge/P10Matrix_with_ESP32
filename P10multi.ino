@@ -4,8 +4,8 @@
 #include <Fonts/FreeSansBold9pt7b.h>
 
 /* ================= WIFI ================= */
-#define WIFI_SSID "DIY Tech Knowledge"
-#define WIFI_PASS "Diy@123499"
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "PASS"
 
 /* ================= MATRIX PINS ================= */
 #define R1_PIN 25
